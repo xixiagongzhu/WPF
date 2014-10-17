@@ -1,0 +1,2 @@
+E:\MyProject\Candy\Candy\bin\Debug\Candy.exe.config
+E:\MyProject\WPF\Candy\Candy\bin\Debug\Candy.exe.config
